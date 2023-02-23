@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(../images/time.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.test{
+  color: red;
+  list-style: square;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.clockApp{
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: blueviolet;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  border-radius: 100px;
+  padding: 30px;
+}
+.button{
+  background-color: white;
+  border: 0;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  transition: all .5s;
+}
+.button:hover{
+  background-color: black;
+  color: white;
+}
+.clock{
+  border: 3px solid aqua;
+  border-radius: 50px;
+  padding: 15px;
+  transition: all 1.5s;
+}
+.clock:hover{
+  background-color: aqua;
+
+}
