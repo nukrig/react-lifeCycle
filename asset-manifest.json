@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-lifecycle/static/css/main.285f1edf.css",
+    "main.js": "/react-lifecycle/static/js/main.d068c001.js",
+    "static/media/time.jpg": "/react-lifecycle/static/media/time.d41c1969ecff78c8a3c6.jpg",
+    "index.html": "/react-lifecycle/index.html",
+    "main.285f1edf.css.map": "/react-lifecycle/static/css/main.285f1edf.css.map",
+    "main.d068c001.js.map": "/react-lifecycle/static/js/main.d068c001.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.285f1edf.css",
+    "static/js/main.d068c001.js"
+  ]
+}
